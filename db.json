@@ -1,0 +1,157 @@
+{
+  "newProducts": [
+    {
+      "id": "NP002",
+      "name": "Blackmagic Design Pocket Cinema Camera 6K Pro (Canon)",
+      "price": 2495,
+      "rating": 4.7,
+      "category": "Camera",
+      "brand": "Blackmagic Design",
+      "modelName": "Pocket Cinema Camera 6K Pro",
+      "screenSize": "5 inches",
+      "hardDiskSize": "256 GB",
+      "cpuModel": "ARM-based CPU",
+      "ramMemory": "8 GB",
+      "display": "HDR Touchscreen",
+      "graphics": "Dual native ISO",
+      "processor": "Custom Blackmagic processor",
+      "inTheBox": "Camera, Lens, Power Cable, Manual",
+      "height": "118.3 mm",
+      "width": "162.5 mm",
+      "weight": "1.2 kg",
+      "releaseDate": "2021-04-05",
+      "comments": [
+        {
+          "user": "Jane Smith",
+          "rating": 4,
+          "comment": "Great camera for professionals, but a bit heavy."
+        }
+      ],
+      "preview": {
+        "images": [
+          "https://i.ibb.co/bKsW66h/maclaptop-3.png",
+          "https://i.ibb.co/bKsW66h/maclaptop-3.png",
+          "https://i.ibb.co/bKsW66h/maclaptop-3.png",
+          "https://i.ibb.co/bKsW66h/maclaptop-3.png"
+        ],
+        "video": "https://player.vimeo.com/video/123456789"
+      }
+    },
+    {
+      "id": "NP003",
+      "name": "SAMSUNG Galaxy S23 Ultra Cell Phone 256 GB",
+      "price": 1199.99,
+      "rating": 4.8,
+      "category": "Smart Phone",
+      "brand": "Samsung",
+      "modelName": "Galaxy S23 Ultra",
+      "screenSize": "6.8 inches",
+      "hardDiskSize": "256 GB",
+      "cpuModel": "Exynos 2200",
+      "ramMemory": "12 GB",
+      "display": "Dynamic AMOLED 2X",
+      "graphics": "Mali-G78 MP14",
+      "processor": "Octa-core",
+      "inTheBox": "Galaxy S23 Ultra, Charger, USB-C Cable, Manual",
+      "height": "163.4 mm",
+      "width": "77.9 mm",
+      "weight": "228 g",
+      "releaseDate": "2023-02-01",
+      "comments": [
+        {
+          "user": "Chris Johnson",
+          "rating": 5,
+          "comment": "Perfect phone, fast performance, and stunning display."
+        }
+      ],
+      "preview": {
+        "images": [
+          "https://i.ibb.co/fvTYdRQ/samsung-s22ultra.png",
+          "https://i.ibb.co/fvTYdRQ/samsung-s22ultra.png",
+          "https://i.ibb.co/fvTYdRQ/samsung-s22ultra.png",
+          "https://i.ibb.co/fvTYdRQ/samsung-s22ultra.png"
+        ],
+        "video": "https://player.vimeo.com/video/987654321"
+      }
+    },
+    {
+      "id": "NP004",
+      "name": "VR VisionTech X1",
+      "price": 299.99,
+      "rating": 4.6,
+      "category": "Gaming",
+      "brand": "VisionTech",
+      "modelName": "X1",
+      "screenSize": "Not applicable",
+      "hardDiskSize": "Not applicable",
+      "cpuModel": "Not applicable",
+      "ramMemory": "Not applicable",
+      "display": "VR Display",
+      "graphics": "Advanced VR Graphics",
+      "processor": "Custom VR Processor",
+      "inTheBox": "VR Headset, Controller, Power Adapter",
+      "height": "22 cm",
+      "width": "15 cm",
+      "weight": "500 g",
+      "releaseDate": "2022-07-20",
+      "comments": [
+        {
+          "user": "Michael Lee",
+          "rating": 4,
+          "comment": "Good VR experience, but could be more comfortable."
+        }
+      ],
+      "preview": {
+        "images": [
+          "https://i.ibb.co/CMPSJy3/vr.png",
+          "https://i.ibb.co/CMPSJy3/vr.png",
+          "https://i.ibb.co/CMPSJy3/vr.png",
+          "https://i.ibb.co/CMPSJy3/vr.png"
+        ],
+        "video": "https://player.vimeo.com/video/112233445"
+      }
+    },
+    {
+      "id": "NP005",
+      "name": "iPhone 15 Pro Max",
+      "price": 1199.99,
+      "rating": 4.8,
+      "category": "Smartphones",
+      "brand": "Apple",
+      "modelName": "15 Pro Max",
+      "screenSize": "6.7 inches",
+      "hardDiskSize": "Not applicable",
+      "cpuModel": "A17 Bionic",
+      "ramMemory": "6 GB",
+      "display": "Super Retina XDR Display",
+      "graphics": "Integrated",
+      "processor": "Hexa-core",
+      "inTheBox": "iPhone, USB-C Cable, Documentation",
+      "height": "16 cm",
+      "width": "7.8 cm",
+      "weight": "240 g",
+      "releaseDate": "2023-09-12",
+      "comments": [
+        {
+          "user": "Jane Smith",
+          "rating": 5,
+          "comment": "Amazing phone with stunning camera quality!"
+        },
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Great performance but a bit expensive."
+        }
+      ],
+      "preview": {
+        "images": [
+          "https://i.ibb.co/5YPhtFr/iphone-3.png",
+          "https://i.ibb.co/5YPhtFr/iphone-3.png",
+          "https://i.ibb.co/5YPhtFr/iphone-3.png",
+          "https://i.ibb.co/5YPhtFr/iphone-3.png"
+        ],
+        "video": "https://player.vimeo.com/video/223344556"
+      }
+    }
+  ]
+}
