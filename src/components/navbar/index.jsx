@@ -33,7 +33,7 @@ const Navbar = () => {
         ))}
       </nav>
       <nav className="flex items-center gap-4 ">
-        <Button className="cursor-pointer">
+        <Button onClick={() => navigate("/like")} className="cursor-pointer">
           <HeartOutlined className="text-[20px]" />
         </Button>
         <Badge count={data.length}>

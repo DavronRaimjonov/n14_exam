@@ -3,6 +3,7 @@ import { getStore, setStore } from "../../store";
 
 const initialState = {
   data: getStore("shop") || [],
+  like: getStore("like") || [],
 };
 
 const shopSlice = createSlice({
@@ -63,8 +64,23 @@ const shopSlice = createSlice({
       }
       setStore("shop", state.data);
     },
+    addLikeData(state, { payload }) {
+      state.like = [...state.like, payload];
+      setStore("like", state.like);
+    },
+    deleteLikeData(state, { payload }) {
+      state.like = state.like.filter((value) => value.id !== payload);
+      setStore("like", state.like);
+    },
   },
 });
 
-export const { getData, deleteData, increment, decrement } = shopSlice.actions;
+export const {
+  getData,
+  deleteData,
+  increment,
+  decrement,
+  addLikeData,
+  deleteLikeData,
+} = shopSlice.actions;
 export default shopSlice.reducer;
